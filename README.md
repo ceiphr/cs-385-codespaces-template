@@ -1,1 +1,1 @@
-# cs-385-codespaces-template
+# CS-385 Codespaces Template
